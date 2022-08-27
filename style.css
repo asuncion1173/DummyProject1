@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+em {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+}
+
+.headingdiv {
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-left: 700px;
+    margin-right: 700px;
+    background-color: rgb(53, 53, 53);
+    border-style: solid;
+    border-color: white;
+    border-radius: 50px;
+    border-width: 3px;
+    margin-top: 50px;
+}
+
+.aboutdiv {
+    text-align: center;
+    position: relative;
+    width: auto;
+    background-color: rgb(53, 53, 53);
+    margin-left: 800px;
+    margin-right: 800px;
+    border-style: dashed;
+    border-radius: 15px;
+    border-color: white;
+    margin-top: 20px;
+}
+
+.musicdiv {
+    background-color: rgb(53, 53, 53);
+    width: 270px;
+    position: relative;
+    left: 650px;
+    top: 19px;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+.golfdiv {
+    background-color: rgb(53, 53, 53);
+    width: auto;
+    position: relative;
+    left: 1008px;
+    top: -177px;
+    padding-left: 10px;
+    margin-right: 1620px;
+    padding-top: 1px;
+    padding-bottom: 14px;
+    padding-right: 20px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 3px;
+}
